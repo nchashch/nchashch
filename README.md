@@ -10,5 +10,5 @@ agents inspect and playtest Bevy apps).
 I'm also a technical co-founder of [Layer Two Labs](https://layertwolabs.com/),
 where I've worked on making BIP300 + BIP301 sidechains possible for Bitcoin.
 
-And I was one of the original [Amethyst](https://github.com/amethyst) game
-engine developers years ago.
+Before that I was one of the original [Amethyst](https://github.com/amethyst) game
+engine developers.
